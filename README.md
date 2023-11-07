@@ -2,7 +2,7 @@
 
 This is a group project(3 students). It is a Secure Chat Application that facilitates users to exchange text messages securely. It implements various cryptographic techniques for secure communication between sender and receiver.
 
-Users can securely chat by employing symmetric and asymmetric encryption methods. 
+Users can securely chat by using symmetric and asymmetric encryption methods. 
 The symmetric techniques require the sender and receiver to share a secret key for encryption and decryption. 
 As for asymmetric techniques, the sender uses their private key for encryption, while the receiver uses the sender's public key for decryption.
 
