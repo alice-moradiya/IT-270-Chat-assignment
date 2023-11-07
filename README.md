@@ -46,6 +46,6 @@ My contributions involved implementing these cryptographic functionalities, ensu
 
 # How to use
 
-Clone the repo to your local system and make sure the last three files named, chatapp.py, server.py and client.py are in the same folder and 
+Clone the repo to your local system and make sure that the three files named, chatapp.py, server.py and client.py are in the same folder and 
 you can simple run it in any python IDEs. Simpley open 'chatapp.py' and run it.
 
